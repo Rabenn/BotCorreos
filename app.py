@@ -23,7 +23,7 @@ if not st.session_state.auth:
 st.title("🚀 Marketing Intelligence & Post Gen")
 
 with st.sidebar:
-    st.success("Usuario: Ruben")
+    st.success("Usuario iniciado")
     if st.button("Cerrar sesión"):
         st.session_state.auth = False
         st.rerun()
