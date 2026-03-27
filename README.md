@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/python-3.12+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![API](https://img.shields.io/badge/API-WorldNews-orange.svg)
+![API](https://img.shields.io/badge/API-OpenAI-green.svg)
 
 **Marketing News Bot** es una herramienta de inteligencia de negocio automatizada. Su objetivo es extraer las 10 noticias más disruptivas del marketing global, procesarlas mediante Procesamiento de Lenguaje Natural (traducción automática) y juntarlas con un documento de tu eleccion para crear un pdf relacional.
 
