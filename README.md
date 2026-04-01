@@ -46,10 +46,19 @@ pip install -r requirements.txt
 Crea un archivo llamado .env en la raíz del proyecto y añade tus datos:
 
 ```bash
-WORLD_NEWS_API_KEY=tu_api_key_aqui
+NEWS_API_KEY=tu_api_key_aqui
+
 EMAIL_EMISOR=tu_correo@gmail.com
+
+# Lista de correos del departamento separados por comas
 EMAIL_RECEPTOR=destino@tuempresa.com
+
 PASSWORD_APP=tu_clave_de_16_letras_de_google
+
+# Tema por defecto para la automatización semanal
+TEMA_DEFAULT= TEMA
+
+
 ```
 **Nota**: Para el PASSWORD_APP, utiliza una "Contraseña de Aplicación" generada desde tu cuenta de Google, no tu contraseña habitual.
 
